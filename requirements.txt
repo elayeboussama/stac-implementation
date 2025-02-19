@@ -1,4 +1,4 @@
 odc-stac==0.3.9
 pystac-client==0.7.5
-GDAL==3.4.3
+GDAL
 rasterio
